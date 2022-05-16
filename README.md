@@ -2,7 +2,7 @@
 
 Pour compiler : > make
 
-Pour lancer le chiffremnt : > python3 encrypt.py < fichier_clair > < mdp > < fichier_chiffrer >
+Pour lancer le chiffrement : > python3 encrypt.py < fichier_clair > < mdp > < fichier_chiffrer >
 
 Pour lancer le dechifrement : > ./decrypt < fichier_chiffrer > < mdp > < fichier_clair >
 
